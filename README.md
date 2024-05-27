@@ -12,3 +12,8 @@ Helps keep track of which day is best for conducting a meeting and to take any c
 This dashboard is built using Power BI which helps the manager to track all mentioned above, also this dashboard is dynamic in nature and changes from time to time with the data that is given as input.
 
 Credits: Codebasics YT channel
+
+The attached demo will give a walk through through the dashboard
+
+https://github.com/saisanthosh1982/HR-Data-Analytics/assets/158448930/bbcad45c-6c03-4ade-9195-c386f5922841
+
